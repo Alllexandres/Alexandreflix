@@ -51,4 +51,9 @@ body {
     border: 3px solid purple
 }
 
- "jekyll-theme-filmes"
+Gem::Specification.new do |s|
+  s.name          = "jekyll-theme-filmes"
+  s.version       = "0.2.0"
+  s.license       = "CC0-1.0"
+  s.authors       = ["Alexandre", "GitHub, Inc."]
+  s.email         = ["opensource+jekyll-theme-architect@github.com"]
